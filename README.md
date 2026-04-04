@@ -1,5 +1,3 @@
-
-
 # 🐍 Practise Python
 
 This repository contains my daily Python practice programs, covering fundamental to intermediate-level concepts.
